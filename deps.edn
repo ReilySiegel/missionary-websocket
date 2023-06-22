@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps  {missionary/missionary {:mvn/version "b.31"}}}
